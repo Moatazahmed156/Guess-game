@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 :root {
-  --primary-color: #f44336;
+  --primary-color: rgb(0, 195, 255);
 }
 body {
   margin: 0;
